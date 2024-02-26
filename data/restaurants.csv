@@ -1,0 +1,1001 @@
+ID,food_Category,Price_tier,Neighborhood,Opening_hours,Average_rating,Good_for_kids
+1,Western food,expensive,Staten Island,7:41,5,true
+2,Chinese food,medium,Manhattan,1:58,2,true
+3,Chinese food,expensive,Queens,2:46,3,false
+4,Western food,medium,Brooklyn,7:34,4,false
+5,Western food,expensive,Brooklyn,2:50,3,true
+6,Western food,cheap,Manhattan,5:45,1,true
+7,Western food,cheap,Queens,10:59,3,false
+8,Chinese food,medium,Brooklyn,6:21,4,false
+9,Western food,cheap,The Bronx,10:05,3,false
+10,Western food,medium,Brooklyn,3:10,5,false
+11,Western food,expensive,Queens,3:35,5,false
+12,Chinese food,expensive,Staten Island,8:56,5,false
+13,Western food,expensive,Queens,8:14,3,true
+14,Chinese food,cheap,Brooklyn,2:01,2,true
+15,Western food,medium,Queens,9:22,3,true
+16,Western food,cheap,Queens,7:45,3,false
+17,Chinese food,medium,Manhattan,11:51,4,true
+18,Western food,cheap,Queens,4:00,2,false
+19,Western food,medium,Brooklyn,7:48,3,true
+20,Western food,expensive,Brooklyn,9:22,4,false
+21,Chinese food,medium,Manhattan,5:06,3,false
+22,Western food,cheap,Brooklyn,8:55,2,false
+23,Western food,cheap,Staten Island,10:38,4,false
+24,Chinese food,medium,Brooklyn,1:11,4,true
+25,Chinese food,medium,The Bronx,4:45,4,true
+26,Chinese food,expensive,Staten Island,11:31,3,true
+27,Western food,cheap,The Bronx,10:46,2,false
+28,Western food,medium,Queens,9:04,5,true
+29,Western food,medium,The Bronx,0:39,1,true
+30,Western food,cheap,Brooklyn,6:31,2,false
+31,Western food,medium,Staten Island,6:09,4,false
+32,Western food,medium,Queens,6:32,1,true
+33,Western food,expensive,Queens,9:32,1,true
+34,Western food,cheap,Brooklyn,10:39,4,true
+35,Chinese food,medium,Staten Island,6:24,2,false
+36,Chinese food,expensive,Queens,11:37,1,false
+37,Chinese food,expensive,Staten Island,10:34,5,false
+38,Chinese food,medium,Queens,4:02,4,false
+39,Western food,medium,Staten Island,11:34,5,true
+40,Western food,cheap,Brooklyn,3:29,4,true
+41,Chinese food,medium,Brooklyn,10:35,5,false
+42,Chinese food,expensive,Staten Island,9:33,3,false
+43,Western food,cheap,The Bronx,6:40,4,true
+44,Chinese food,cheap,Manhattan,2:52,4,false
+45,Chinese food,cheap,Brooklyn,9:56,5,true
+46,Western food,expensive,Staten Island,9:53,3,true
+47,Chinese food,medium,Queens,3:34,3,false
+48,Western food,medium,Brooklyn,1:50,4,true
+49,Chinese food,cheap,Queens,8:57,3,true
+50,Chinese food,cheap,Manhattan,7:35,4,true
+51,Chinese food,cheap,Staten Island,7:01,5,false
+52,Western food,cheap,Brooklyn,3:42,5,false
+53,Chinese food,medium,Queens,0:57,5,false
+54,Chinese food,expensive,Brooklyn,0:25,1,false
+55,Chinese food,expensive,The Bronx,3:12,5,false
+56,Chinese food,expensive,Queens,5:32,1,true
+57,Western food,expensive,The Bronx,5:57,4,false
+58,Western food,cheap,Staten Island,4:43,3,false
+59,Chinese food,cheap,Brooklyn,0:54,2,true
+60,Western food,cheap,Brooklyn,0:59,4,false
+61,Western food,cheap,Brooklyn,0:27,2,false
+62,Western food,medium,The Bronx,11:24,4,true
+63,Chinese food,expensive,Brooklyn,2:38,5,true
+64,Western food,expensive,Brooklyn,7:29,5,true
+65,Western food,medium,Brooklyn,5:26,1,false
+66,Chinese food,expensive,Brooklyn,4:41,2,true
+67,Western food,cheap,Brooklyn,10:54,2,false
+68,Western food,expensive,The Bronx,5:49,4,true
+69,Western food,cheap,The Bronx,9:58,2,false
+70,Western food,cheap,Staten Island,6:27,1,false
+71,Western food,cheap,The Bronx,3:02,4,false
+72,Chinese food,cheap,The Bronx,8:23,1,true
+73,Western food,medium,The Bronx,1:17,4,true
+74,Chinese food,cheap,The Bronx,7:13,4,false
+75,Western food,cheap,The Bronx,8:44,3,true
+76,Chinese food,cheap,Queens,0:11,1,false
+77,Chinese food,medium,Manhattan,1:35,5,false
+78,Chinese food,medium,Manhattan,9:21,1,false
+79,Chinese food,medium,Staten Island,7:42,3,false
+80,Chinese food,medium,Staten Island,0:38,1,true
+81,Chinese food,cheap,Staten Island,0:53,4,false
+82,Western food,cheap,The Bronx,0:48,5,true
+83,Chinese food,expensive,The Bronx,1:09,4,true
+84,Chinese food,cheap,Staten Island,9:17,1,true
+85,Western food,cheap,Brooklyn,1:11,1,false
+86,Western food,medium,Staten Island,3:08,4,true
+87,Chinese food,expensive,Brooklyn,5:53,3,true
+88,Western food,medium,Brooklyn,11:33,4,true
+89,Chinese food,cheap,The Bronx,6:56,5,true
+90,Western food,medium,The Bronx,6:49,3,true
+91,Chinese food,expensive,Brooklyn,4:18,4,false
+92,Chinese food,expensive,Manhattan,9:50,3,false
+93,Chinese food,cheap,Queens,0:00,3,true
+94,Chinese food,medium,Brooklyn,11:45,1,true
+95,Western food,expensive,Queens,2:03,3,true
+96,Chinese food,cheap,Staten Island,4:06,2,true
+97,Western food,medium,Manhattan,0:06,5,false
+98,Chinese food,expensive,Staten Island,4:49,1,false
+99,Western food,cheap,The Bronx,11:57,5,true
+100,Chinese food,cheap,Staten Island,3:59,1,true
+101,Western food,cheap,Brooklyn,3:57,1,true
+102,Chinese food,medium,The Bronx,10:27,5,false
+103,Chinese food,expensive,Staten Island,6:31,5,false
+104,Western food,expensive,Manhattan,11:28,1,false
+105,Chinese food,medium,Queens,0:04,4,false
+106,Western food,medium,Queens,5:45,5,false
+107,Chinese food,medium,Manhattan,8:55,5,false
+108,Western food,cheap,Staten Island,4:51,4,false
+109,Western food,medium,Queens,3:26,3,true
+110,Chinese food,expensive,Queens,11:17,3,false
+111,Western food,cheap,Manhattan,10:09,4,false
+112,Western food,cheap,Brooklyn,9:51,2,false
+113,Western food,cheap,The Bronx,11:43,4,false
+114,Chinese food,expensive,Manhattan,3:10,3,false
+115,Western food,medium,Manhattan,3:33,1,true
+116,Chinese food,cheap,Manhattan,2:03,5,false
+117,Western food,cheap,Staten Island,10:04,5,false
+118,Western food,cheap,Queens,10:14,3,true
+119,Western food,expensive,Manhattan,5:18,5,false
+120,Western food,expensive,Queens,4:55,2,false
+121,Western food,cheap,Brooklyn,1:12,5,false
+122,Western food,expensive,Staten Island,2:35,3,false
+123,Western food,expensive,The Bronx,6:25,1,false
+124,Chinese food,cheap,Staten Island,9:30,2,false
+125,Chinese food,medium,Brooklyn,9:13,2,false
+126,Western food,medium,Manhattan,4:50,2,true
+127,Chinese food,expensive,The Bronx,4:14,5,true
+128,Western food,cheap,Staten Island,10:05,2,true
+129,Chinese food,medium,Queens,5:15,1,false
+130,Western food,medium,The Bronx,4:43,1,false
+131,Chinese food,expensive,Queens,6:53,3,true
+132,Chinese food,expensive,The Bronx,9:30,1,false
+133,Western food,medium,Manhattan,3:53,1,true
+134,Chinese food,expensive,The Bronx,5:33,2,true
+135,Western food,medium,Queens,6:18,1,true
+136,Chinese food,cheap,Queens,8:25,2,true
+137,Chinese food,expensive,Queens,11:07,5,true
+138,Western food,medium,Staten Island,9:32,2,true
+139,Western food,expensive,Manhattan,6:04,3,false
+140,Western food,cheap,Queens,1:42,4,false
+141,Chinese food,medium,Manhattan,11:24,4,false
+142,Western food,medium,Brooklyn,2:11,5,true
+143,Chinese food,expensive,Staten Island,9:26,1,false
+144,Western food,cheap,Staten Island,4:50,1,false
+145,Chinese food,cheap,The Bronx,2:29,2,true
+146,Chinese food,cheap,Brooklyn,1:16,3,false
+147,Chinese food,medium,Staten Island,8:04,3,false
+148,Western food,expensive,The Bronx,1:33,5,true
+149,Chinese food,medium,Staten Island,6:13,4,true
+150,Western food,cheap,Staten Island,4:45,1,false
+151,Western food,medium,The Bronx,6:18,2,true
+152,Chinese food,expensive,Queens,2:38,2,false
+153,Chinese food,medium,Staten Island,3:01,4,true
+154,Chinese food,medium,Brooklyn,11:03,3,true
+155,Chinese food,cheap,Manhattan,1:20,2,true
+156,Western food,medium,Brooklyn,1:16,3,true
+157,Chinese food,medium,Staten Island,3:34,1,true
+158,Chinese food,expensive,Queens,7:16,4,false
+159,Western food,cheap,Manhattan,7:23,2,false
+160,Chinese food,expensive,Brooklyn,4:52,3,true
+161,Western food,expensive,Queens,1:31,1,true
+162,Chinese food,medium,Manhattan,11:01,2,false
+163,Chinese food,cheap,Brooklyn,5:40,4,true
+164,Western food,medium,Staten Island,7:37,5,true
+165,Chinese food,medium,Manhattan,7:50,4,false
+166,Western food,expensive,Manhattan,2:13,4,false
+167,Western food,medium,Queens,3:04,3,false
+168,Western food,medium,Staten Island,10:12,5,true
+169,Chinese food,expensive,Manhattan,0:39,2,false
+170,Chinese food,expensive,Brooklyn,0:27,4,true
+171,Western food,medium,Manhattan,1:14,2,true
+172,Chinese food,expensive,Queens,11:15,5,false
+173,Western food,cheap,Queens,6:23,2,true
+174,Western food,cheap,Queens,10:49,4,true
+175,Western food,medium,The Bronx,6:29,2,false
+176,Chinese food,medium,Manhattan,9:44,3,true
+177,Chinese food,expensive,The Bronx,11:52,1,false
+178,Western food,medium,Brooklyn,1:16,2,true
+179,Chinese food,expensive,Queens,4:36,4,true
+180,Chinese food,cheap,Queens,7:07,3,true
+181,Western food,medium,Staten Island,5:39,4,false
+182,Chinese food,medium,Staten Island,10:50,1,false
+183,Chinese food,cheap,The Bronx,9:57,5,true
+184,Chinese food,expensive,Staten Island,6:33,5,false
+185,Western food,expensive,Manhattan,1:35,4,true
+186,Western food,expensive,Manhattan,8:42,2,false
+187,Western food,cheap,Staten Island,11:21,1,false
+188,Chinese food,expensive,The Bronx,11:56,1,true
+189,Western food,expensive,Staten Island,0:36,2,false
+190,Chinese food,medium,The Bronx,10:25,2,false
+191,Chinese food,cheap,Brooklyn,10:59,3,true
+192,Western food,cheap,Staten Island,8:45,5,true
+193,Chinese food,expensive,Queens,5:31,2,false
+194,Western food,cheap,Staten Island,4:43,4,true
+195,Chinese food,medium,The Bronx,5:37,4,true
+196,Chinese food,cheap,The Bronx,8:17,2,false
+197,Chinese food,expensive,Brooklyn,5:39,4,true
+198,Chinese food,expensive,Manhattan,5:52,1,true
+199,Chinese food,cheap,Queens,9:52,2,true
+200,Western food,expensive,Staten Island,2:45,3,true
+201,Western food,cheap,Staten Island,6:30,3,false
+202,Western food,medium,The Bronx,5:15,2,true
+203,Chinese food,medium,Queens,4:04,4,true
+204,Western food,expensive,The Bronx,0:20,1,false
+205,Western food,expensive,Queens,5:00,4,false
+206,Chinese food,medium,Brooklyn,6:31,3,false
+207,Western food,cheap,Staten Island,4:14,4,true
+208,Chinese food,medium,Queens,1:33,2,true
+209,Chinese food,medium,Brooklyn,8:52,2,true
+210,Western food,medium,Queens,10:21,5,false
+211,Western food,medium,Queens,8:19,4,false
+212,Chinese food,expensive,Staten Island,3:23,3,false
+213,Western food,medium,Brooklyn,9:13,3,true
+214,Chinese food,medium,Queens,11:07,1,true
+215,Chinese food,cheap,Queens,10:28,4,true
+216,Western food,cheap,The Bronx,8:34,4,true
+217,Western food,medium,The Bronx,10:23,4,true
+218,Western food,medium,Manhattan,11:48,5,true
+219,Western food,cheap,Brooklyn,7:46,3,true
+220,Western food,medium,Brooklyn,8:14,1,false
+221,Western food,medium,Staten Island,4:21,2,true
+222,Chinese food,medium,Staten Island,6:37,1,false
+223,Western food,expensive,Queens,3:49,1,false
+224,Western food,medium,The Bronx,8:29,4,true
+225,Chinese food,cheap,Brooklyn,0:22,5,true
+226,Western food,cheap,Brooklyn,4:37,2,true
+227,Chinese food,cheap,Brooklyn,4:52,1,false
+228,Western food,expensive,The Bronx,4:54,2,false
+229,Chinese food,expensive,The Bronx,9:20,5,true
+230,Chinese food,cheap,The Bronx,6:52,2,true
+231,Western food,cheap,Staten Island,6:52,5,true
+232,Western food,expensive,Manhattan,8:28,3,false
+233,Chinese food,expensive,Staten Island,4:26,3,true
+234,Chinese food,cheap,Manhattan,2:26,2,true
+235,Western food,cheap,Staten Island,7:49,2,true
+236,Western food,expensive,Queens,0:54,3,true
+237,Chinese food,medium,Brooklyn,10:53,3,true
+238,Western food,medium,Brooklyn,6:41,1,true
+239,Chinese food,cheap,Staten Island,5:43,3,false
+240,Chinese food,expensive,Manhattan,1:51,2,true
+241,Western food,cheap,Brooklyn,4:05,4,false
+242,Chinese food,medium,The Bronx,2:38,3,true
+243,Chinese food,expensive,Staten Island,8:17,1,false
+244,Western food,medium,Queens,4:35,2,false
+245,Western food,medium,Queens,7:25,1,true
+246,Chinese food,expensive,Queens,0:49,5,true
+247,Western food,cheap,Brooklyn,0:39,2,true
+248,Chinese food,medium,The Bronx,0:30,2,false
+249,Chinese food,expensive,Brooklyn,5:36,4,false
+250,Western food,medium,Staten Island,7:39,5,true
+251,Chinese food,expensive,Queens,9:03,2,true
+252,Chinese food,medium,Staten Island,7:57,3,false
+253,Western food,medium,Staten Island,2:10,4,true
+254,Chinese food,expensive,Brooklyn,5:41,5,true
+255,Chinese food,cheap,Brooklyn,5:16,3,false
+256,Western food,medium,Staten Island,9:14,1,true
+257,Chinese food,cheap,Manhattan,9:44,5,false
+258,Western food,expensive,Manhattan,5:45,1,true
+259,Chinese food,cheap,The Bronx,4:25,2,false
+260,Western food,medium,Queens,11:31,4,false
+261,Chinese food,cheap,Staten Island,1:04,2,false
+262,Chinese food,expensive,Staten Island,0:50,4,true
+263,Western food,expensive,Brooklyn,1:20,4,true
+264,Chinese food,cheap,Manhattan,8:00,1,true
+265,Chinese food,cheap,Queens,8:29,1,true
+266,Western food,medium,The Bronx,3:34,5,true
+267,Chinese food,cheap,The Bronx,10:03,1,false
+268,Western food,expensive,Queens,0:31,2,true
+269,Chinese food,expensive,The Bronx,2:59,1,true
+270,Chinese food,expensive,Queens,0:49,4,false
+271,Western food,medium,Staten Island,2:04,2,true
+272,Chinese food,cheap,Brooklyn,7:13,4,false
+273,Western food,medium,The Bronx,1:46,1,true
+274,Chinese food,cheap,The Bronx,5:26,3,false
+275,Chinese food,medium,Brooklyn,1:24,2,true
+276,Chinese food,medium,Brooklyn,9:01,5,false
+277,Western food,cheap,Staten Island,11:17,5,true
+278,Chinese food,expensive,Manhattan,0:37,5,false
+279,Western food,cheap,Queens,3:18,5,true
+280,Chinese food,expensive,Brooklyn,9:40,2,false
+281,Chinese food,medium,Brooklyn,9:56,2,true
+282,Western food,cheap,Brooklyn,10:12,2,false
+283,Chinese food,expensive,Brooklyn,4:29,4,false
+284,Chinese food,expensive,Queens,10:07,2,true
+285,Western food,medium,The Bronx,2:44,4,true
+286,Western food,expensive,The Bronx,6:28,5,false
+287,Chinese food,expensive,Queens,3:30,3,false
+288,Chinese food,medium,Brooklyn,7:18,1,true
+289,Western food,cheap,Brooklyn,6:12,4,true
+290,Western food,cheap,The Bronx,7:11,3,false
+291,Chinese food,cheap,Queens,11:09,5,false
+292,Western food,medium,Staten Island,7:31,3,false
+293,Chinese food,cheap,Manhattan,11:02,3,true
+294,Chinese food,expensive,Staten Island,9:41,1,true
+295,Western food,medium,Manhattan,8:53,3,false
+296,Chinese food,expensive,Brooklyn,8:11,4,true
+297,Chinese food,medium,Brooklyn,9:18,1,true
+298,Chinese food,expensive,The Bronx,9:55,5,false
+299,Western food,medium,The Bronx,11:16,1,false
+300,Chinese food,cheap,Brooklyn,8:04,5,true
+301,Western food,expensive,Manhattan,3:23,1,false
+302,Chinese food,medium,Brooklyn,6:37,5,true
+303,Chinese food,medium,Staten Island,4:49,5,true
+304,Western food,medium,Manhattan,5:15,2,true
+305,Chinese food,expensive,Queens,0:52,1,false
+306,Western food,medium,Brooklyn,5:27,1,true
+307,Western food,expensive,Brooklyn,8:55,1,false
+308,Chinese food,cheap,Brooklyn,9:55,2,true
+309,Western food,medium,Staten Island,2:26,3,true
+310,Western food,cheap,Queens,8:03,4,false
+311,Chinese food,cheap,Brooklyn,4:06,4,true
+312,Western food,expensive,Manhattan,8:57,4,false
+313,Chinese food,medium,Brooklyn,0:19,5,false
+314,Chinese food,expensive,The Bronx,10:31,2,false
+315,Chinese food,medium,Queens,6:18,5,false
+316,Western food,medium,Queens,5:52,2,true
+317,Western food,medium,Staten Island,10:50,2,true
+318,Western food,medium,The Bronx,6:39,2,false
+319,Chinese food,medium,Queens,7:04,2,true
+320,Western food,medium,Queens,8:58,3,true
+321,Western food,cheap,Brooklyn,9:34,5,true
+322,Chinese food,cheap,Manhattan,5:43,3,false
+323,Western food,cheap,Manhattan,0:39,4,false
+324,Western food,expensive,Brooklyn,5:57,2,false
+325,Chinese food,medium,Staten Island,5:03,2,false
+326,Chinese food,cheap,The Bronx,6:22,1,false
+327,Western food,expensive,Queens,3:07,1,false
+328,Western food,expensive,Queens,5:23,4,false
+329,Western food,medium,Brooklyn,2:14,1,false
+330,Western food,medium,Staten Island,11:25,5,false
+331,Western food,medium,Staten Island,4:18,3,false
+332,Western food,cheap,Staten Island,5:13,4,true
+333,Chinese food,medium,Manhattan,2:45,5,true
+334,Chinese food,medium,Staten Island,3:20,4,false
+335,Western food,cheap,Manhattan,8:26,5,false
+336,Western food,expensive,The Bronx,2:21,2,true
+337,Chinese food,medium,Brooklyn,9:12,1,false
+338,Chinese food,medium,Staten Island,10:25,4,true
+339,Chinese food,cheap,Brooklyn,0:59,1,false
+340,Chinese food,cheap,Staten Island,8:00,5,false
+341,Western food,cheap,Manhattan,10:00,4,true
+342,Western food,cheap,Manhattan,3:48,4,true
+343,Chinese food,cheap,The Bronx,7:24,2,false
+344,Western food,medium,Brooklyn,4:30,3,true
+345,Chinese food,expensive,Brooklyn,7:51,2,true
+346,Chinese food,cheap,The Bronx,10:46,3,false
+347,Western food,medium,Manhattan,5:52,4,true
+348,Chinese food,medium,Queens,8:18,1,false
+349,Western food,medium,Staten Island,8:17,1,false
+350,Western food,expensive,Queens,5:15,1,true
+351,Western food,medium,Manhattan,6:33,5,true
+352,Western food,expensive,Brooklyn,11:16,5,false
+353,Western food,medium,Staten Island,9:33,3,false
+354,Chinese food,medium,Brooklyn,6:56,2,true
+355,Chinese food,cheap,Manhattan,4:03,4,true
+356,Western food,medium,Queens,0:10,1,true
+357,Western food,medium,The Bronx,2:11,2,false
+358,Chinese food,expensive,Staten Island,7:04,1,false
+359,Chinese food,medium,The Bronx,9:18,3,true
+360,Western food,cheap,Brooklyn,6:51,3,true
+361,Chinese food,medium,Brooklyn,8:46,3,true
+362,Chinese food,medium,Staten Island,4:16,2,true
+363,Chinese food,expensive,Brooklyn,0:15,5,true
+364,Western food,expensive,The Bronx,10:45,3,true
+365,Chinese food,medium,The Bronx,8:41,1,false
+366,Western food,expensive,Manhattan,8:44,1,false
+367,Western food,expensive,The Bronx,5:52,2,false
+368,Western food,expensive,Queens,5:27,5,true
+369,Western food,cheap,Brooklyn,5:47,1,false
+370,Chinese food,expensive,Brooklyn,11:17,3,true
+371,Chinese food,medium,Staten Island,4:03,2,true
+372,Western food,expensive,The Bronx,10:49,3,false
+373,Western food,medium,The Bronx,6:31,1,false
+374,Chinese food,cheap,Brooklyn,5:52,2,true
+375,Chinese food,cheap,Staten Island,7:12,1,true
+376,Chinese food,cheap,Manhattan,7:23,5,false
+377,Chinese food,cheap,Queens,10:37,1,false
+378,Western food,medium,Brooklyn,7:24,5,true
+379,Chinese food,expensive,Staten Island,5:44,4,true
+380,Western food,expensive,Queens,2:53,1,true
+381,Western food,cheap,Brooklyn,6:06,4,false
+382,Chinese food,cheap,Manhattan,1:24,2,false
+383,Western food,cheap,Manhattan,8:28,3,false
+384,Western food,expensive,The Bronx,5:56,3,false
+385,Western food,cheap,Staten Island,7:14,5,false
+386,Western food,cheap,Brooklyn,8:58,4,false
+387,Western food,cheap,Manhattan,9:09,1,true
+388,Chinese food,medium,Queens,0:00,1,true
+389,Chinese food,medium,Queens,3:31,3,true
+390,Western food,cheap,Queens,11:15,1,true
+391,Chinese food,expensive,Queens,5:35,3,true
+392,Western food,expensive,Queens,9:19,1,true
+393,Western food,expensive,Staten Island,6:05,1,true
+394,Chinese food,expensive,Brooklyn,10:44,3,true
+395,Chinese food,medium,Manhattan,1:38,2,true
+396,Chinese food,cheap,The Bronx,8:28,4,false
+397,Chinese food,medium,Manhattan,1:22,3,true
+398,Chinese food,expensive,Brooklyn,5:18,5,true
+399,Chinese food,expensive,Staten Island,8:36,2,false
+400,Chinese food,medium,Queens,11:31,1,true
+401,Chinese food,expensive,Queens,1:14,3,false
+402,Chinese food,expensive,Queens,7:14,2,false
+403,Chinese food,expensive,Brooklyn,11:56,4,true
+404,Western food,cheap,Brooklyn,2:31,5,true
+405,Chinese food,expensive,Staten Island,11:03,1,false
+406,Chinese food,cheap,Manhattan,7:09,5,false
+407,Chinese food,cheap,Staten Island,7:45,2,true
+408,Western food,expensive,Brooklyn,3:25,4,true
+409,Chinese food,medium,Brooklyn,3:52,3,false
+410,Western food,medium,Manhattan,8:56,1,true
+411,Chinese food,medium,Brooklyn,7:07,3,false
+412,Western food,expensive,The Bronx,4:58,3,true
+413,Western food,medium,Brooklyn,2:27,5,true
+414,Western food,cheap,The Bronx,0:03,1,false
+415,Western food,expensive,Manhattan,5:31,2,true
+416,Western food,expensive,Staten Island,1:01,2,true
+417,Chinese food,expensive,The Bronx,8:49,3,false
+418,Western food,medium,Brooklyn,7:00,3,false
+419,Chinese food,cheap,The Bronx,5:57,4,true
+420,Western food,expensive,Manhattan,4:05,2,false
+421,Western food,cheap,Staten Island,11:46,3,true
+422,Western food,cheap,Brooklyn,0:31,3,true
+423,Western food,cheap,The Bronx,6:07,2,false
+424,Western food,medium,Staten Island,11:20,4,true
+425,Western food,expensive,Staten Island,8:32,2,true
+426,Chinese food,expensive,Queens,5:49,2,true
+427,Western food,expensive,Manhattan,0:44,4,false
+428,Western food,expensive,Staten Island,6:08,1,true
+429,Western food,expensive,Staten Island,1:41,5,false
+430,Chinese food,expensive,Manhattan,10:17,4,false
+431,Chinese food,expensive,Queens,1:20,2,false
+432,Chinese food,medium,The Bronx,0:22,2,true
+433,Chinese food,cheap,Manhattan,2:48,4,true
+434,Chinese food,expensive,The Bronx,0:20,2,false
+435,Western food,medium,The Bronx,5:14,5,false
+436,Western food,medium,Staten Island,3:57,4,false
+437,Chinese food,expensive,The Bronx,4:55,4,true
+438,Western food,expensive,Staten Island,6:36,1,true
+439,Chinese food,cheap,The Bronx,2:10,4,false
+440,Chinese food,cheap,Staten Island,0:38,5,true
+441,Chinese food,cheap,The Bronx,0:05,3,false
+442,Chinese food,cheap,The Bronx,4:46,4,true
+443,Western food,cheap,Brooklyn,4:38,5,true
+444,Western food,expensive,Staten Island,2:12,1,true
+445,Chinese food,expensive,Brooklyn,4:29,4,true
+446,Chinese food,cheap,The Bronx,10:14,1,false
+447,Chinese food,expensive,Manhattan,9:55,1,false
+448,Western food,cheap,The Bronx,1:32,1,false
+449,Western food,expensive,Staten Island,8:40,3,true
+450,Chinese food,medium,Queens,0:40,4,true
+451,Western food,medium,The Bronx,7:36,3,false
+452,Chinese food,cheap,Staten Island,9:35,2,true
+453,Chinese food,expensive,Staten Island,10:23,5,true
+454,Western food,expensive,Queens,3:29,5,true
+455,Chinese food,cheap,The Bronx,3:42,4,true
+456,Western food,expensive,Queens,4:41,5,true
+457,Western food,medium,Queens,4:31,1,true
+458,Chinese food,medium,Queens,5:10,5,true
+459,Western food,medium,Brooklyn,9:17,2,true
+460,Chinese food,medium,Staten Island,9:37,3,false
+461,Chinese food,expensive,The Bronx,5:21,2,true
+462,Chinese food,expensive,Brooklyn,4:30,4,false
+463,Chinese food,medium,Queens,4:21,3,false
+464,Western food,expensive,The Bronx,1:27,5,false
+465,Chinese food,expensive,Queens,2:59,4,false
+466,Western food,expensive,Staten Island,1:48,4,false
+467,Western food,medium,Manhattan,8:39,5,false
+468,Chinese food,cheap,Queens,10:41,1,true
+469,Western food,expensive,Queens,3:58,2,false
+470,Western food,cheap,Staten Island,4:17,2,true
+471,Western food,medium,Staten Island,9:15,2,false
+472,Western food,expensive,Queens,7:14,4,false
+473,Chinese food,cheap,The Bronx,4:38,1,false
+474,Chinese food,medium,Queens,11:34,4,false
+475,Chinese food,expensive,Manhattan,6:14,1,false
+476,Chinese food,cheap,Brooklyn,4:22,4,true
+477,Chinese food,cheap,Brooklyn,10:36,1,true
+478,Chinese food,expensive,Queens,4:02,3,true
+479,Western food,cheap,Brooklyn,11:59,2,false
+480,Chinese food,medium,Manhattan,9:26,4,true
+481,Western food,medium,Manhattan,0:07,4,false
+482,Chinese food,cheap,Manhattan,3:40,1,false
+483,Chinese food,medium,Staten Island,7:37,2,true
+484,Western food,cheap,Staten Island,11:37,2,false
+485,Western food,expensive,Queens,3:16,4,true
+486,Western food,medium,Staten Island,5:23,2,true
+487,Chinese food,expensive,Staten Island,2:04,2,false
+488,Chinese food,medium,Staten Island,2:01,5,false
+489,Western food,expensive,Staten Island,10:57,5,true
+490,Chinese food,expensive,Queens,8:21,3,false
+491,Western food,cheap,The Bronx,11:09,3,false
+492,Chinese food,cheap,Queens,9:17,2,false
+493,Western food,cheap,Brooklyn,0:15,3,true
+494,Western food,expensive,Brooklyn,6:55,2,false
+495,Western food,cheap,Manhattan,3:28,1,false
+496,Chinese food,medium,The Bronx,7:26,2,true
+497,Chinese food,medium,Manhattan,6:58,2,false
+498,Chinese food,expensive,Staten Island,6:48,5,false
+499,Western food,cheap,Manhattan,0:43,2,false
+500,Western food,medium,Manhattan,3:25,4,false
+501,Chinese food,medium,Manhattan,2:01,1,true
+502,Chinese food,expensive,Manhattan,4:35,5,true
+503,Chinese food,medium,Queens,3:07,5,true
+504,Western food,expensive,The Bronx,9:02,1,true
+505,Western food,expensive,Brooklyn,7:02,4,true
+506,Western food,cheap,The Bronx,10:28,1,true
+507,Chinese food,expensive,Manhattan,3:45,4,true
+508,Chinese food,cheap,The Bronx,2:25,5,true
+509,Chinese food,cheap,Brooklyn,6:22,3,true
+510,Chinese food,medium,The Bronx,10:37,4,false
+511,Chinese food,medium,Brooklyn,10:36,5,false
+512,Chinese food,medium,Brooklyn,4:27,5,false
+513,Chinese food,expensive,Manhattan,9:20,1,true
+514,Western food,expensive,Staten Island,7:26,1,false
+515,Chinese food,expensive,Staten Island,8:09,4,true
+516,Western food,expensive,Staten Island,3:17,1,true
+517,Western food,expensive,Brooklyn,7:19,2,true
+518,Chinese food,expensive,Manhattan,0:18,1,false
+519,Western food,cheap,Brooklyn,10:52,2,true
+520,Chinese food,expensive,Queens,9:20,3,false
+521,Chinese food,medium,Staten Island,2:12,3,false
+522,Chinese food,cheap,The Bronx,9:04,1,true
+523,Chinese food,cheap,Brooklyn,8:17,5,true
+524,Chinese food,medium,Manhattan,11:22,2,false
+525,Chinese food,cheap,Staten Island,11:25,2,false
+526,Chinese food,cheap,Queens,6:27,3,false
+527,Western food,medium,The Bronx,5:09,5,false
+528,Chinese food,expensive,The Bronx,0:37,4,true
+529,Chinese food,expensive,Brooklyn,0:30,2,true
+530,Chinese food,expensive,Queens,6:39,2,false
+531,Western food,expensive,Staten Island,11:33,2,true
+532,Western food,cheap,Queens,7:42,3,true
+533,Chinese food,expensive,Queens,11:42,3,true
+534,Western food,medium,The Bronx,9:31,4,false
+535,Western food,cheap,Staten Island,2:59,3,false
+536,Chinese food,medium,Manhattan,4:00,3,true
+537,Western food,expensive,Staten Island,10:05,2,true
+538,Chinese food,medium,Brooklyn,10:49,2,false
+539,Chinese food,cheap,Queens,11:08,3,true
+540,Western food,medium,The Bronx,9:57,1,false
+541,Western food,medium,Brooklyn,9:16,5,true
+542,Chinese food,expensive,Staten Island,3:25,3,true
+543,Chinese food,cheap,The Bronx,6:54,2,true
+544,Chinese food,medium,Queens,2:37,4,false
+545,Chinese food,cheap,The Bronx,4:20,3,false
+546,Chinese food,medium,The Bronx,8:18,4,true
+547,Chinese food,cheap,Manhattan,5:50,4,true
+548,Chinese food,cheap,Queens,1:04,1,true
+549,Chinese food,expensive,Brooklyn,9:52,2,false
+550,Western food,cheap,Staten Island,0:14,3,false
+551,Chinese food,medium,Staten Island,0:13,2,true
+552,Chinese food,medium,Staten Island,7:26,2,false
+553,Western food,expensive,Manhattan,1:42,1,true
+554,Western food,medium,Manhattan,9:28,2,true
+555,Chinese food,medium,The Bronx,5:53,1,false
+556,Chinese food,medium,Queens,6:22,4,false
+557,Western food,cheap,Manhattan,5:13,3,true
+558,Chinese food,medium,Manhattan,9:14,3,true
+559,Chinese food,cheap,Manhattan,5:43,4,false
+560,Western food,medium,Staten Island,5:56,3,true
+561,Chinese food,cheap,Queens,9:07,1,false
+562,Chinese food,medium,The Bronx,5:36,3,false
+563,Chinese food,expensive,The Bronx,4:55,1,false
+564,Chinese food,cheap,Queens,1:03,5,true
+565,Chinese food,medium,Manhattan,2:53,4,true
+566,Western food,expensive,Brooklyn,5:16,4,true
+567,Western food,cheap,Staten Island,3:19,5,false
+568,Western food,medium,Manhattan,0:01,2,true
+569,Chinese food,cheap,The Bronx,7:09,5,true
+570,Western food,medium,Manhattan,1:33,4,false
+571,Chinese food,cheap,Queens,8:09,1,true
+572,Chinese food,expensive,The Bronx,5:49,2,false
+573,Western food,medium,Queens,0:15,2,false
+574,Chinese food,expensive,Queens,3:47,5,true
+575,Chinese food,cheap,The Bronx,0:33,3,true
+576,Chinese food,expensive,Queens,4:26,2,true
+577,Chinese food,medium,Queens,10:39,5,false
+578,Chinese food,expensive,Queens,0:24,3,true
+579,Western food,medium,Staten Island,0:22,5,true
+580,Chinese food,cheap,Manhattan,11:19,1,false
+581,Chinese food,medium,Queens,8:45,5,false
+582,Western food,cheap,Queens,8:06,4,true
+583,Chinese food,medium,Staten Island,1:54,3,false
+584,Chinese food,medium,The Bronx,4:47,1,true
+585,Chinese food,expensive,Queens,0:49,4,false
+586,Chinese food,cheap,The Bronx,4:39,5,true
+587,Western food,medium,The Bronx,3:29,1,false
+588,Western food,cheap,The Bronx,0:38,2,false
+589,Chinese food,cheap,Manhattan,0:32,2,false
+590,Chinese food,medium,Staten Island,1:18,4,true
+591,Chinese food,expensive,Staten Island,5:57,4,true
+592,Chinese food,expensive,The Bronx,6:33,1,true
+593,Western food,medium,Brooklyn,5:47,4,true
+594,Chinese food,medium,Queens,8:06,5,true
+595,Chinese food,medium,Manhattan,2:21,4,true
+596,Chinese food,medium,The Bronx,1:24,1,true
+597,Chinese food,expensive,Brooklyn,8:36,3,false
+598,Western food,expensive,Manhattan,0:51,2,false
+599,Western food,cheap,Brooklyn,7:46,2,false
+600,Western food,cheap,Brooklyn,0:30,3,true
+601,Western food,medium,Brooklyn,5:13,3,true
+602,Chinese food,cheap,The Bronx,4:03,1,false
+603,Chinese food,medium,The Bronx,7:27,5,true
+604,Chinese food,medium,Brooklyn,6:16,5,true
+605,Western food,cheap,Manhattan,6:15,1,false
+606,Western food,expensive,Queens,3:22,5,true
+607,Western food,expensive,Manhattan,7:34,1,false
+608,Western food,expensive,The Bronx,3:58,2,false
+609,Western food,cheap,The Bronx,4:58,4,false
+610,Chinese food,medium,The Bronx,3:06,4,false
+611,Chinese food,medium,The Bronx,6:11,1,true
+612,Chinese food,medium,Queens,10:05,5,false
+613,Chinese food,cheap,Queens,5:25,3,false
+614,Chinese food,cheap,Queens,1:31,3,false
+615,Chinese food,expensive,The Bronx,10:15,3,false
+616,Chinese food,expensive,The Bronx,3:02,3,false
+617,Chinese food,expensive,Queens,5:32,4,true
+618,Western food,medium,Staten Island,4:38,2,false
+619,Chinese food,medium,Manhattan,7:09,2,true
+620,Chinese food,expensive,Queens,4:43,4,false
+621,Western food,cheap,Queens,4:07,4,false
+622,Chinese food,expensive,Queens,2:23,2,true
+623,Western food,expensive,Manhattan,2:10,1,true
+624,Chinese food,medium,The Bronx,10:13,5,true
+625,Western food,medium,Queens,7:27,1,false
+626,Western food,expensive,Manhattan,8:08,1,true
+627,Western food,medium,Brooklyn,5:31,2,true
+628,Western food,medium,Manhattan,11:14,1,false
+629,Chinese food,cheap,Brooklyn,9:36,3,false
+630,Western food,cheap,The Bronx,8:16,5,true
+631,Western food,expensive,Queens,8:59,5,true
+632,Chinese food,cheap,Queens,1:50,3,false
+633,Western food,medium,The Bronx,5:03,3,false
+634,Chinese food,expensive,Queens,9:39,1,true
+635,Western food,cheap,The Bronx,4:52,1,true
+636,Chinese food,medium,Queens,1:14,4,true
+637,Chinese food,expensive,Brooklyn,9:31,1,false
+638,Chinese food,expensive,Brooklyn,6:52,4,false
+639,Western food,expensive,Brooklyn,8:53,5,false
+640,Western food,medium,Brooklyn,6:37,3,false
+641,Chinese food,cheap,Staten Island,6:25,2,true
+642,Chinese food,medium,Brooklyn,0:08,5,true
+643,Chinese food,expensive,Brooklyn,7:21,2,false
+644,Western food,expensive,The Bronx,1:43,1,false
+645,Chinese food,cheap,Brooklyn,6:04,3,true
+646,Chinese food,expensive,Manhattan,4:45,3,true
+647,Chinese food,expensive,The Bronx,7:30,2,false
+648,Western food,medium,Staten Island,3:24,4,false
+649,Western food,expensive,Manhattan,8:35,4,true
+650,Western food,cheap,Queens,9:44,3,false
+651,Chinese food,expensive,The Bronx,8:00,3,false
+652,Western food,medium,Staten Island,8:50,1,true
+653,Western food,medium,The Bronx,5:59,3,false
+654,Chinese food,expensive,Queens,4:47,4,false
+655,Chinese food,medium,Queens,9:34,2,false
+656,Western food,cheap,Manhattan,10:21,3,false
+657,Chinese food,cheap,Queens,2:55,3,false
+658,Western food,medium,Staten Island,0:37,3,false
+659,Chinese food,medium,Queens,10:42,1,true
+660,Chinese food,expensive,Staten Island,9:48,5,true
+661,Western food,medium,Staten Island,5:08,3,false
+662,Western food,medium,Queens,11:22,2,true
+663,Western food,medium,Manhattan,2:51,3,false
+664,Western food,medium,Staten Island,7:42,1,true
+665,Chinese food,expensive,Manhattan,4:56,5,true
+666,Western food,expensive,The Bronx,7:34,3,false
+667,Western food,cheap,Manhattan,3:30,5,true
+668,Chinese food,medium,Brooklyn,7:52,4,false
+669,Chinese food,expensive,Brooklyn,11:12,1,true
+670,Chinese food,medium,Staten Island,4:33,5,false
+671,Chinese food,cheap,The Bronx,2:46,5,false
+672,Chinese food,expensive,The Bronx,3:57,5,true
+673,Chinese food,cheap,Brooklyn,9:19,3,false
+674,Chinese food,cheap,The Bronx,2:09,3,false
+675,Western food,medium,Staten Island,0:28,2,true
+676,Chinese food,medium,Staten Island,1:51,1,false
+677,Chinese food,expensive,Queens,6:25,4,true
+678,Western food,medium,Queens,1:44,1,false
+679,Western food,expensive,Brooklyn,9:50,3,true
+680,Chinese food,expensive,Manhattan,0:47,5,false
+681,Western food,expensive,Staten Island,0:56,2,false
+682,Western food,medium,Brooklyn,3:02,4,true
+683,Chinese food,expensive,The Bronx,11:44,2,true
+684,Western food,medium,Queens,1:19,5,false
+685,Chinese food,expensive,Staten Island,1:25,3,true
+686,Western food,cheap,Manhattan,10:50,1,true
+687,Western food,medium,Staten Island,5:14,1,true
+688,Chinese food,cheap,Manhattan,9:48,4,true
+689,Chinese food,cheap,Manhattan,4:20,4,true
+690,Chinese food,expensive,Manhattan,10:46,3,false
+691,Western food,expensive,Manhattan,0:22,4,false
+692,Chinese food,cheap,Manhattan,10:04,5,true
+693,Chinese food,medium,Staten Island,5:02,2,true
+694,Western food,medium,The Bronx,3:14,3,false
+695,Chinese food,medium,Brooklyn,10:57,4,false
+696,Chinese food,cheap,Staten Island,2:55,4,false
+697,Chinese food,expensive,Queens,5:17,3,false
+698,Chinese food,medium,Manhattan,0:03,4,false
+699,Western food,medium,The Bronx,2:25,3,true
+700,Western food,expensive,Manhattan,3:17,1,false
+701,Chinese food,expensive,Manhattan,11:44,2,true
+702,Western food,expensive,Manhattan,11:58,3,true
+703,Chinese food,cheap,Manhattan,11:56,1,true
+704,Western food,cheap,The Bronx,2:02,1,false
+705,Western food,expensive,The Bronx,8:40,5,true
+706,Western food,medium,Queens,0:41,2,true
+707,Western food,expensive,Staten Island,7:59,4,true
+708,Chinese food,expensive,Queens,1:31,1,true
+709,Chinese food,cheap,Staten Island,10:53,1,false
+710,Western food,cheap,Queens,4:02,1,false
+711,Western food,expensive,Manhattan,5:24,4,false
+712,Western food,cheap,Staten Island,8:01,5,false
+713,Chinese food,expensive,The Bronx,11:43,4,true
+714,Western food,medium,The Bronx,9:04,2,false
+715,Chinese food,expensive,Manhattan,1:46,4,false
+716,Chinese food,medium,Manhattan,9:43,4,true
+717,Western food,medium,The Bronx,7:35,5,false
+718,Chinese food,expensive,Brooklyn,10:22,3,false
+719,Western food,cheap,Staten Island,5:02,3,false
+720,Western food,expensive,The Bronx,11:51,2,true
+721,Western food,expensive,Staten Island,9:59,4,false
+722,Chinese food,cheap,Staten Island,5:55,5,false
+723,Chinese food,expensive,Brooklyn,4:53,5,true
+724,Western food,medium,Staten Island,2:44,1,false
+725,Western food,medium,Queens,4:22,4,false
+726,Chinese food,expensive,Staten Island,11:44,5,false
+727,Western food,cheap,Staten Island,10:09,4,false
+728,Chinese food,cheap,Queens,10:02,1,false
+729,Western food,expensive,Brooklyn,7:17,3,false
+730,Western food,medium,Brooklyn,11:03,2,false
+731,Western food,medium,Queens,1:57,2,true
+732,Western food,medium,Brooklyn,9:55,3,false
+733,Western food,medium,Manhattan,8:20,4,false
+734,Western food,medium,Manhattan,1:03,5,true
+735,Chinese food,expensive,The Bronx,0:42,5,false
+736,Western food,cheap,Manhattan,0:24,2,true
+737,Chinese food,medium,Staten Island,6:47,2,true
+738,Western food,cheap,Staten Island,2:55,3,false
+739,Western food,medium,Queens,8:14,1,true
+740,Western food,cheap,Brooklyn,6:06,3,false
+741,Chinese food,expensive,Manhattan,10:54,3,false
+742,Western food,cheap,Staten Island,4:16,5,true
+743,Chinese food,medium,Manhattan,2:25,2,true
+744,Chinese food,expensive,Queens,6:09,3,false
+745,Western food,medium,Queens,7:13,1,false
+746,Chinese food,cheap,Brooklyn,0:38,2,true
+747,Chinese food,expensive,Staten Island,11:05,1,false
+748,Chinese food,expensive,Staten Island,6:54,5,false
+749,Chinese food,cheap,The Bronx,0:34,4,true
+750,Chinese food,medium,Brooklyn,9:24,4,false
+751,Chinese food,medium,The Bronx,4:03,4,false
+752,Western food,cheap,Brooklyn,0:51,2,true
+753,Western food,medium,Staten Island,5:55,2,false
+754,Western food,expensive,Staten Island,2:40,1,false
+755,Western food,cheap,Manhattan,10:15,4,false
+756,Chinese food,medium,Brooklyn,2:13,4,true
+757,Chinese food,expensive,The Bronx,11:08,5,false
+758,Chinese food,medium,The Bronx,6:13,3,true
+759,Western food,expensive,Manhattan,3:14,5,false
+760,Western food,cheap,The Bronx,9:16,2,false
+761,Western food,medium,Queens,11:23,4,true
+762,Chinese food,cheap,The Bronx,2:13,4,false
+763,Chinese food,medium,Queens,8:21,5,false
+764,Chinese food,cheap,Brooklyn,11:53,1,false
+765,Chinese food,expensive,Manhattan,9:06,5,true
+766,Chinese food,expensive,The Bronx,3:28,1,true
+767,Western food,cheap,Staten Island,3:33,5,true
+768,Western food,medium,The Bronx,0:48,2,false
+769,Western food,medium,Queens,2:50,4,true
+770,Western food,cheap,Staten Island,11:59,1,false
+771,Western food,cheap,Queens,8:11,3,false
+772,Western food,expensive,Queens,5:28,1,false
+773,Western food,medium,Queens,4:18,4,true
+774,Chinese food,expensive,Brooklyn,2:29,5,true
+775,Western food,medium,Queens,11:45,1,true
+776,Western food,cheap,Staten Island,4:40,4,true
+777,Western food,cheap,Brooklyn,4:50,4,false
+778,Chinese food,expensive,Staten Island,5:27,1,false
+779,Chinese food,medium,The Bronx,4:15,5,false
+780,Western food,expensive,Staten Island,9:26,2,true
+781,Western food,expensive,The Bronx,8:54,2,false
+782,Chinese food,expensive,Manhattan,8:25,1,true
+783,Chinese food,expensive,Brooklyn,9:53,2,false
+784,Western food,medium,Brooklyn,9:46,2,false
+785,Western food,medium,Brooklyn,8:28,2,true
+786,Western food,expensive,Manhattan,1:20,5,true
+787,Western food,cheap,The Bronx,0:39,3,true
+788,Chinese food,expensive,Manhattan,2:38,1,true
+789,Western food,cheap,Brooklyn,4:31,4,false
+790,Western food,medium,Manhattan,2:42,5,true
+791,Western food,medium,Brooklyn,10:03,2,true
+792,Chinese food,cheap,Staten Island,10:41,1,true
+793,Western food,expensive,The Bronx,10:45,5,false
+794,Western food,medium,Staten Island,9:37,3,true
+795,Chinese food,cheap,Queens,4:27,4,false
+796,Western food,medium,Manhattan,2:48,3,true
+797,Western food,medium,The Bronx,10:16,4,false
+798,Chinese food,medium,Brooklyn,9:02,4,true
+799,Chinese food,expensive,Queens,8:14,4,false
+800,Chinese food,cheap,Staten Island,4:37,4,false
+801,Chinese food,medium,Brooklyn,5:48,3,false
+802,Western food,medium,Queens,10:43,1,true
+803,Chinese food,expensive,The Bronx,2:57,3,true
+804,Western food,expensive,Manhattan,3:02,3,false
+805,Chinese food,cheap,Manhattan,6:07,1,false
+806,Chinese food,expensive,Manhattan,7:00,4,true
+807,Western food,expensive,The Bronx,3:08,2,false
+808,Western food,cheap,Manhattan,10:00,4,false
+809,Chinese food,medium,Queens,3:48,2,true
+810,Chinese food,cheap,Manhattan,7:20,2,false
+811,Chinese food,cheap,Queens,3:18,4,false
+812,Western food,expensive,Manhattan,10:18,3,false
+813,Western food,cheap,Staten Island,11:13,4,true
+814,Western food,medium,Manhattan,7:27,2,false
+815,Chinese food,medium,Brooklyn,7:24,4,true
+816,Chinese food,cheap,Manhattan,6:30,2,false
+817,Western food,cheap,The Bronx,4:09,2,false
+818,Chinese food,expensive,Manhattan,10:54,3,false
+819,Western food,expensive,The Bronx,0:03,4,false
+820,Western food,cheap,Brooklyn,11:22,2,true
+821,Western food,cheap,Queens,3:53,1,false
+822,Western food,expensive,The Bronx,2:15,4,false
+823,Western food,expensive,Staten Island,4:11,1,true
+824,Chinese food,expensive,Staten Island,7:45,3,false
+825,Chinese food,cheap,Manhattan,3:08,1,true
+826,Western food,medium,The Bronx,3:03,2,true
+827,Western food,cheap,Brooklyn,7:41,5,true
+828,Chinese food,cheap,Staten Island,8:41,5,false
+829,Western food,expensive,Staten Island,6:02,5,true
+830,Western food,cheap,Brooklyn,3:07,4,true
+831,Western food,medium,Queens,0:41,3,false
+832,Western food,medium,Brooklyn,6:47,3,false
+833,Chinese food,cheap,Staten Island,8:56,1,false
+834,Chinese food,cheap,Staten Island,7:05,1,false
+835,Chinese food,expensive,Staten Island,1:57,1,true
+836,Chinese food,expensive,The Bronx,11:30,3,false
+837,Chinese food,expensive,Queens,4:34,3,false
+838,Western food,expensive,The Bronx,3:44,4,false
+839,Chinese food,cheap,Manhattan,11:15,4,false
+840,Chinese food,medium,Brooklyn,7:16,2,false
+841,Western food,medium,Queens,6:28,5,false
+842,Chinese food,medium,The Bronx,9:24,5,true
+843,Chinese food,medium,Brooklyn,7:07,2,true
+844,Chinese food,cheap,Queens,3:21,1,false
+845,Western food,cheap,Manhattan,3:30,1,false
+846,Western food,cheap,Brooklyn,5:24,4,false
+847,Chinese food,medium,Manhattan,3:50,5,true
+848,Chinese food,expensive,Manhattan,11:28,3,true
+849,Western food,expensive,Manhattan,7:54,2,false
+850,Chinese food,medium,Brooklyn,11:20,1,true
+851,Chinese food,cheap,Queens,9:44,1,false
+852,Chinese food,expensive,Staten Island,10:47,4,true
+853,Chinese food,medium,Manhattan,6:02,3,true
+854,Chinese food,medium,Brooklyn,3:57,4,true
+855,Chinese food,cheap,Manhattan,11:11,2,false
+856,Chinese food,expensive,Brooklyn,4:58,3,true
+857,Chinese food,medium,The Bronx,2:35,2,false
+858,Chinese food,medium,Brooklyn,9:22,5,false
+859,Western food,expensive,Manhattan,5:09,5,true
+860,Western food,expensive,Queens,8:42,4,true
+861,Chinese food,expensive,Brooklyn,9:14,5,true
+862,Western food,cheap,Queens,6:51,3,false
+863,Chinese food,expensive,The Bronx,1:26,2,true
+864,Western food,expensive,Staten Island,6:53,4,true
+865,Western food,cheap,Brooklyn,6:55,5,false
+866,Chinese food,cheap,Brooklyn,3:12,2,false
+867,Chinese food,expensive,Staten Island,2:26,4,false
+868,Chinese food,medium,The Bronx,9:16,5,true
+869,Chinese food,expensive,The Bronx,0:01,5,true
+870,Chinese food,cheap,Staten Island,8:17,2,false
+871,Western food,cheap,Brooklyn,7:11,2,true
+872,Western food,expensive,Manhattan,3:02,1,true
+873,Western food,medium,Queens,7:17,5,false
+874,Chinese food,cheap,The Bronx,9:40,5,false
+875,Chinese food,cheap,Staten Island,3:07,2,false
+876,Chinese food,cheap,Queens,3:47,2,false
+877,Western food,cheap,Brooklyn,11:41,3,false
+878,Chinese food,expensive,Staten Island,3:22,3,true
+879,Chinese food,cheap,Staten Island,1:20,4,true
+880,Western food,cheap,Queens,0:14,1,true
+881,Chinese food,cheap,Manhattan,4:41,4,false
+882,Western food,expensive,Staten Island,5:28,2,true
+883,Chinese food,cheap,Brooklyn,7:51,5,true
+884,Chinese food,cheap,The Bronx,5:54,1,true
+885,Western food,cheap,Queens,7:29,1,true
+886,Western food,medium,Manhattan,7:51,2,true
+887,Chinese food,expensive,The Bronx,8:16,2,true
+888,Chinese food,cheap,The Bronx,1:47,4,true
+889,Western food,expensive,The Bronx,6:10,3,true
+890,Western food,medium,The Bronx,0:02,3,false
+891,Chinese food,cheap,Manhattan,11:04,3,true
+892,Chinese food,expensive,The Bronx,3:04,4,true
+893,Chinese food,expensive,Queens,0:39,4,true
+894,Western food,cheap,The Bronx,7:40,5,false
+895,Chinese food,expensive,Queens,0:45,4,false
+896,Chinese food,medium,The Bronx,11:43,4,true
+897,Chinese food,medium,Brooklyn,1:28,2,false
+898,Chinese food,cheap,Brooklyn,3:55,4,true
+899,Chinese food,expensive,The Bronx,1:58,3,true
+900,Chinese food,medium,The Bronx,6:01,3,false
+901,Western food,medium,Manhattan,7:19,5,true
+902,Western food,cheap,Manhattan,10:11,5,true
+903,Western food,medium,Manhattan,6:19,1,false
+904,Chinese food,expensive,Brooklyn,5:38,4,false
+905,Western food,cheap,Queens,11:02,4,false
+906,Western food,expensive,Queens,8:45,4,true
+907,Chinese food,cheap,Manhattan,0:51,2,false
+908,Western food,cheap,Manhattan,8:04,3,false
+909,Western food,cheap,Staten Island,6:25,1,true
+910,Chinese food,medium,Queens,4:03,3,true
+911,Western food,expensive,Staten Island,8:50,3,false
+912,Chinese food,cheap,The Bronx,4:43,1,true
+913,Chinese food,expensive,Staten Island,8:13,2,true
+914,Western food,expensive,The Bronx,11:11,4,false
+915,Chinese food,cheap,Queens,1:02,5,true
+916,Western food,expensive,The Bronx,10:50,5,true
+917,Chinese food,cheap,The Bronx,11:19,4,true
+918,Western food,medium,Queens,1:03,3,true
+919,Western food,cheap,Manhattan,10:11,3,true
+920,Western food,medium,The Bronx,9:21,1,false
+921,Chinese food,medium,Brooklyn,8:26,3,true
+922,Chinese food,medium,Brooklyn,4:43,1,true
+923,Western food,cheap,Staten Island,9:14,5,false
+924,Chinese food,expensive,The Bronx,2:18,4,true
+925,Chinese food,expensive,Staten Island,10:44,1,false
+926,Chinese food,expensive,Brooklyn,7:33,4,false
+927,Western food,medium,Brooklyn,4:43,5,false
+928,Chinese food,cheap,Manhattan,8:45,4,true
+929,Chinese food,expensive,Staten Island,6:09,4,false
+930,Chinese food,medium,The Bronx,7:10,5,false
+931,Western food,medium,Brooklyn,1:58,2,true
+932,Western food,medium,The Bronx,1:19,4,false
+933,Western food,expensive,Brooklyn,1:01,4,true
+934,Western food,medium,Staten Island,7:49,5,false
+935,Chinese food,expensive,Manhattan,5:09,1,true
+936,Chinese food,cheap,Staten Island,1:17,3,false
+937,Western food,expensive,The Bronx,4:25,1,false
+938,Chinese food,medium,Queens,2:55,5,false
+939,Western food,medium,The Bronx,6:25,5,false
+940,Western food,medium,Staten Island,1:16,3,false
+941,Chinese food,medium,Staten Island,0:32,2,true
+942,Chinese food,cheap,Staten Island,4:16,4,true
+943,Western food,medium,The Bronx,2:58,1,false
+944,Chinese food,expensive,The Bronx,5:18,1,true
+945,Chinese food,expensive,The Bronx,5:21,3,false
+946,Chinese food,expensive,Queens,2:14,2,false
+947,Western food,expensive,Queens,11:14,3,false
+948,Western food,cheap,The Bronx,4:06,2,true
+949,Chinese food,medium,Staten Island,11:01,3,false
+950,Chinese food,cheap,Brooklyn,1:31,5,false
+951,Western food,cheap,Brooklyn,7:18,1,true
+952,Chinese food,medium,Manhattan,10:19,4,true
+953,Western food,medium,Manhattan,11:32,3,false
+954,Western food,expensive,Manhattan,10:43,3,true
+955,Chinese food,expensive,Manhattan,0:57,1,true
+956,Chinese food,cheap,Staten Island,8:05,3,true
+957,Chinese food,medium,Queens,3:36,3,true
+958,Western food,cheap,Staten Island,1:37,4,true
+959,Western food,medium,Queens,5:43,1,false
+960,Chinese food,cheap,The Bronx,11:45,1,false
+961,Chinese food,expensive,Queens,9:08,3,true
+962,Western food,medium,Brooklyn,0:45,4,false
+963,Western food,expensive,Brooklyn,2:12,3,false
+964,Western food,cheap,Queens,9:33,3,true
+965,Western food,cheap,The Bronx,1:49,3,false
+966,Chinese food,expensive,Queens,9:41,3,true
+967,Chinese food,expensive,Queens,2:24,1,true
+968,Chinese food,medium,Queens,6:04,5,true
+969,Chinese food,expensive,Queens,4:42,5,false
+970,Chinese food,expensive,Queens,9:41,2,true
+971,Western food,cheap,Staten Island,1:20,4,true
+972,Western food,expensive,Brooklyn,8:49,4,false
+973,Chinese food,medium,Brooklyn,7:33,2,true
+974,Chinese food,cheap,Manhattan,11:59,2,false
+975,Western food,medium,Staten Island,2:57,4,false
+976,Western food,cheap,The Bronx,10:07,3,false
+977,Western food,medium,Brooklyn,11:08,5,true
+978,Western food,cheap,Staten Island,4:40,5,true
+979,Chinese food,cheap,Queens,10:55,5,false
+980,Western food,medium,The Bronx,1:16,5,false
+981,Chinese food,expensive,Manhattan,8:08,3,false
+982,Western food,medium,Queens,1:10,1,true
+983,Western food,expensive,Staten Island,11:52,3,false
+984,Western food,expensive,Manhattan,2:45,4,false
+985,Chinese food,medium,Queens,1:19,4,false
+986,Chinese food,expensive,Staten Island,10:35,4,false
+987,Chinese food,cheap,Manhattan,1:53,2,true
+988,Western food,expensive,Brooklyn,11:10,3,false
+989,Western food,expensive,Manhattan,5:07,4,false
+990,Chinese food,expensive,Queens,1:18,3,true
+991,Chinese food,cheap,Staten Island,5:10,5,true
+992,Western food,expensive,The Bronx,3:06,1,true
+993,Chinese food,medium,Staten Island,3:34,4,false
+994,Western food,cheap,Queens,5:46,1,true
+995,Western food,cheap,Manhattan,4:34,3,false
+996,Western food,medium,Brooklyn,10:16,3,true
+997,Chinese food,expensive,Staten Island,7:42,1,false
+998,Western food,expensive,Staten Island,5:20,4,false
+999,Chinese food,cheap,The Bronx,2:28,1,true
+1000,Western food,medium,Staten Island,2:58,5,true
