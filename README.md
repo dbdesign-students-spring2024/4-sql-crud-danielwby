@@ -76,3 +76,7 @@ SELECT Neighborhood, COUNT(*) AS Num_restaurants
 FROM restaurant
 GROUP BY Neighborhood;
 ````
+
+# Task 2
+[Source data-users](/data/posts.csv)
+[Source data-posts](/data/users.csv)
